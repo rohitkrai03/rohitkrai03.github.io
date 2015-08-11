@@ -32,7 +32,7 @@ inc:
 
  # Analytics     
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
+    google: UA-38381756-2 # Add tracking code in _includes/_google-analytics.html
 
 
   # Google Fonts
