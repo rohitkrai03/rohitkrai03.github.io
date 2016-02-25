@@ -44,8 +44,8 @@ inc:
 url:         http://incorporated.sendtoinc.com
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir:     ./_plugins
+layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 timezone:    nil
@@ -56,11 +56,13 @@ show_drafts: nil
 limit_posts: 0
 hightlighter: pygments
 
-relative_permalinks: true
+# relative_permalinks: true
 
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
+
+gems: [jekyll-paginate]
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
@@ -93,7 +95,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_wrap: div

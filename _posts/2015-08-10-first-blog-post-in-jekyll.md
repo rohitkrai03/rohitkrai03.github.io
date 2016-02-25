@@ -14,7 +14,8 @@ author:
   image: ks.png
 ---
 
-Its been ages since i first got to know about Jekyll and its awesome flexibility in creating your own blog. 2 years to be precise. I was in college, it was perfect time for me to start my own blog where i can share whatever i learn or even share a simple thought which comes to my mind. Instantly i thought of creating something of my own. Some unique theme for Jekyll which i was gonna use and eventually was hoping that other people too can use it if they liked. 
+Its been ages since i first got to know about Jekyll and its awesome flexibility in creatin
+g your own blog. 2 years to be precise. I was in college, it was perfect time for me to start my own blog where i can share whatever i learn or even share a simple thought which comes to my mind. Instantly i thought of creating something of my own. Some unique theme for Jekyll which i was gonna use and eventually was hoping that other people too can use it if they liked. 
 
 But the problem was and still is, that i am too lazy to do this on time. In a blink of an eye, an year passed and i was out of college with no work whatsoever done on my so called blog. After that, i joined TCS where i literally had no time to even think of this. Still, it was on my mind always.
 
