@@ -6,14 +6,14 @@ inc:
   logo:         logo.png
 
   # Company information
-  company:      Arkpod.in
-  url:          http://arkpod.in/
+  company:      rohitkrai.dev
+  url:          https://rohitkrai.dev
   facebook:     rohit293
-  twitter:      rohitkrai293
+  twitter:      rohitkrai03
   github:       rohitkrai03
   gplus:        
-  about_link:   http://rohitkrai.me
-  resume_link:  http://arkpod.in/resume
+  about_link:   https://rohitkrai.dev
+  resume_link:  https://rohitkrai.dev/resume
 
   # Product Information
   product_link: 
@@ -53,7 +53,7 @@ timezone:    nil
 
 # Show future posts
 future:      false
-show_drafts: nil
+show_drafts: false
 limit_posts: 0
 hightlighter: pygments
 
